@@ -1,3 +1,12 @@
+# DEPRECATED
+Use official hapi-fhir-jpaserver-starter image from registry.hub.docker.com/hapiproject/hapi:latest instead.  
+
+See  
+https://github.com/trifork/fut-helmsman-admin/commit/394afa3a9c8a63c14b4ff9c1badb219317459b6d    
+https://github.com/trifork/poc-fut-on-fhir/commit/e9376cb07ac563215ae85b1b59421a21475374f6
+
+----------------------------
+
 # HAPI-FHIR Starter Project
 
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
